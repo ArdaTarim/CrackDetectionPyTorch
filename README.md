@@ -1,7 +1,7 @@
 # CrackDetectionPyTorch
 
-This is a PyTorch project from Coursera "AI Capstone Project with Deep Learning".
-I tried to add comments to explain the things I did step by step.
+This is a PyTorch project from Coursera "AI Capstone Project with Deep Learning". I tried to add comments to explain the things I did step by step.
+Softmax model had approximately 0.8 accuracy. 
 
 
 There are total of 40,000 images of building walls.
